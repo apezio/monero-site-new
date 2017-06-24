@@ -2623,23 +2623,23 @@ input:checked ~ label {
     }
     
     .ffs .mobile a#ffs-ideas {
-        background-color: #015c88;
+        background-color: #74a3bc;
     }
     
     .ffs .mobile a#ffs-opentasks {
-        background-color: #691490;
+        background-color: #e98d4f;
     }
     
     .ffs .mobile a#ffs-fundingrequired {
-        background-color: #d34747;
+        background-color: #d95a5a;
     }
     
     .ffs .mobile a#ffs-workinprogress {
-        background-color: #fbc02d;
+        background-color: #f7d859;
     }
     
     .ffs .mobile a#ffs-completedproposals {
-        background-color: #388e3c;
+        background-color: #61a863;
     }
 }
 
