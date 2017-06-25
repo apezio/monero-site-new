@@ -1,7 +1,7 @@
 ---
 layout: moneropedia
 entry: "Wallet"
-terms: ["wallet, wallets"]
+terms: ["wallet", "wallets"]
 summary: "A wallet stores the information necessary to send and receive Monero"
 ---
 
