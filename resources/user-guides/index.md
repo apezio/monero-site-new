@@ -17,6 +17,7 @@ title: "User Guides"
 [Monero Tools](monero_tools.html)
 [How to make an offline backup](Offline_Backup.html)
 [How to run a node on VPS](vps_run_node.html)
+[Securely purchasing and storing Monero](securely_purchase.html)
 
 </div>
             </div>
