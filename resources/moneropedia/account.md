@@ -29,7 +29,7 @@ The private keys for both of these must be protected by you in order to retain y
 
 ### Backing Up Your Account
 
-Because no body holds your Monero on your behalf, you are responsible for your account. Thankfully, Monero makes it very easy to backup your account. When creating a Monero account for the first time you will be given a unique @mnemonic-seed for your account that consists of 13 or 25 words in the language of your choosing. **This seed is the only thing you need to backup for your account**, and so it is imperative that it is written down.
+When you have manage your own Monero Account with the private @spend-key, you are solely responsible for the security of your funds. Thankfully, Monero makes it very easy to backup your account. When creating a Monero account for the first time you will be given a unique @mnemonic-seed for your account that consists of 13 or 25 words in the language of your choosing. **This seed is the only thing you need to backup for your account**, and so it is imperative that it is written down and stored securely.  Never store this seed in a form or location that would allow someone else to see it!
 
 {:.cli-code}
 List of available languages for your wallet's seed:
@@ -64,4 +64,4 @@ Don't ever give your Monero account password to anyone, as this can be used to a
 
 ### Leaving Your Account to Next of Kin
 
-Providing access to your Monero account to your next of kin is just as easy as it is to backup your Monero account. Simply leave your @mnemonic-seed to them in your will, or store it somewhere save where it will be given to them upon the execution of your will. A key advantage to this is that your next of kin won't have to wait for months for a third party to release the funds to them.
+Providing access to your Monero account to your next of kin is just as easy as it is to backup your Monero account. Simply leave your @mnemonic-seed to them in your will, or store it somewhere safe where it will be given to them upon the execution of your will. A key advantage to this is that your next of kin won't have to wait for months for a third party to release the funds to them.
