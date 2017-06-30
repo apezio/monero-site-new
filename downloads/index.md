@@ -38,7 +38,7 @@ Note: the SHA256 hashes are listed by the downloads for convenience, but a GPG-s
           <li><a href="#arm">Arm (v7 & 8)</a></li>
           <li><a href="#bsd">BSD</a></li>
           <li><a href="#source">Source & Blockchain</a></li>
-          <li><a href="#mobilight">Mobile & Light</a></li>
+          <li><a href="#mobilelight">Mobile & Light</a></li>
           <li><a href="#hardware">Hardware</a></li>
         </ul>
       </div>

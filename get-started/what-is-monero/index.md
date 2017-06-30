@@ -6,72 +6,115 @@ title: "What Is Monero?"
 <div class="site-wrap">
     <section class="container">
             <div class="row">
-                
-                <div class="full col-lg-12 monero-vid">
+               
+                <section class="container about-monero full col-xs-12">
+                    <div class="info-block">
+                        <div class="row center-xs">
+                            <div class="col"><h2>What you need to know about Monero</h2></div>
+                        </div>
+                        <div class="row middle-xs info-block-row private">
+                            <div class="col-lg-7 col-md-6 col-sm-8 col-xs-12  why-text">
+                                <h3>Monero is the leading cryptocurrency with a focus on private and censorship-resistant transactions.</h3>
+                                <p>Almost all cryptcurrencies (including Bitcoin and Ethereum) are transparent. They reveal your entire transaction history to the world.</p>
+                                <p>Monero uses unbreakable cryptography to ensure that no one can see how much money you have or where you spend it, even if they know your wallet address.</p>
+                            </div>
+                            <div class="col-lg-5 col-md-6 col-sm-4 col-xs-12 last-sm first-xs center-xs">
+                                <img src="/img/secure-lock.png" alt="Monero is Secure" class="main-icon">
+                            </div>
+                        </div>
+                        <div class="row middle-xs info-block-row">
+                            <div class="col-lg-5 col-md-6 col-sm-4 col-xs-12 center-xs">
+                                <img src="/img/monero-classified.png" alt="Monero is Private" class="main-icon">
+                            </div>
+                            <div class="col-lg-7 col-md-6 col-sm-8 col-xs-12 why-text">
+                                <h3>Monero transactions are confidential and untraceable.</h3>
+                                <p>The source of funds in every Monero transaction is untraceable, and the transaction amounts are confidential. Always-on privacy means that every Monero user's activity enhances the privacy of all other users.</p>
+                                <p>Because funds on the Monero blockchain are untraceable, they cannot become tainted by association with their previous owners. This means you can accept Monero without risk of the funds you've received being blocked or censored at currency exchanges or merchants.</p>
+                                <p>Monero's <a href="#">Kovri project</a> (coming soon) encrypts and routes transactions through the I2P Invisible Internet Project nodes to hide your IP address and protect you from network monitoring.</p>
+                            </div>
+
+                        </div>
+                        <div class="row middle-xs info-block-row">
+                            <div class="col-lg-7 col-md-6 col-sm-8 col-xs-12 why-text">
+                                <h3>Monero is a grassroots community attracting cryptocurrencies researchers and engineers.</h3>
+                                <p>Over <a href="https://www.openhub.net/p/monero" target="_blank">240 developers</a> have contributed to the Monero project, including 30 core developers. Forums and chat channels are welcoming and active.</p>
+                                <p>Monero's Research Lab, Core Development Team and Community Developers are constantly pushing the frontier of what is possible with cryptocurrency privacy and security.</p>
+                                <p>Monero is not a corporation. It is developed by cryptography and distributed systems experts from all over the world that donate their time or are funded by community donations. This means that Monero can't be shut down by any one country and is not constrained by any particular legal jurisdiction.</p>
+                            </div>
+                            <div class="col-lg-5 col-md-6 col-sm-4 col-xs-12 last-sm first-xs center-xs">
+                                <img src="/img/plant.png" alt="Monero is Untraceable" class="main-icon">
+                            </div>
+                        </div>
+                        <div class="row middle-xs info-block-row">
+                            <div class="col-lg-5 col-md-6 col-sm-4 col-xs-12 center-xs">
+                                <img src="/img/monero-cash.png" alt="Monero is electronic cash" class="main-icon">
+                            </div>
+                            <div class="col-lg-7 col-md-6 col-sm-8 col-xs-12 why-text">
+                                <h3>Monero is electronic cash that allows fast, inexpensive payments to and from anywhere in the world.</h3>
+                                <p>There are no multi-day holding periods and no risk of fraudulent chargebacks. It is safe from ‘capital controls’. These are measures that restrict the flow of traditional currencies, sometimes to an extreme degree, in countries experiencing economic instability.</p>
+                            </div>
+                        </div>
+                    </div>
+            </section>
+               <section class="full col-xs-12 monero-vid">
                     <div class="info-block">
                         <div class="row center-xs">
                             <div class="col"><h2>Monero Videos</h2></div>
                         </div>
-                        <div class="row">
-                           <div class="col-md-6">
-                                <h3>Monero Promo</h3>
-                                <video controls poster="/img/decent_monero.svg" onclick="this.paused ? this.play() : this.pause();">
-                                    <source src="/media/Monero_Promo.mov">
-                                </video>
-                           </div>
-                           <div class="col-md-6">
-                                <h3>Monero: The Essentials</h3>
-                                <video controls poster="/img/decent_monero.svg" onclick="this.paused ? this.play() : this.pause();">
-                                    <source src="/media/Monero%20-%20The%20Essentials.mp4">
-                                </video>
-                           </div>
-                           <div class="col-md-6">
-                                <h3>Ring Signatures</h3>
-                                <video controls poster="/img/decent_monero.svg" onclick="this.paused ? this.play() : this.pause();">
-                                    <source src="/media/Monero%20-%20Ring%20Signatures.mp4">
-                                </video>
-                           </div>
-                           <div class="col-md-6">
-                                <h3>Stealth Addresses</h3>
-                                <video controls poster="/img/decent_monero.svg" onclick="this.paused ? this.play() : this.pause();">
-                                    <source src="/media/Monero%20-%20Stealth%20Addresses.mp4">
-                                </video>
-                           </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="full">
-                    <div class="info-block text-adapt">
                         <div class="row center-xs">
-                            <div class="col">
-                                <h2>Main Features</h2>
+                          <div class="col-xs-12">
+                               <div class="carousel-container">
+                                      <ul class="carousel my-carousel">
+                                        <input class="carousel__activator" type="radio" id="A" name="activator" checked="checked"/>
+                                        <input class="carousel__activator" type="radio" id="B" name="activator"/>
+                                        <input class="carousel__activator" type="radio" id="C" name="activator"/>
+                                        <input class="carousel__activator" type="radio" id="D" name="activator"/>
+                                        <div class="carousel__controls">
+                                          <label class="carousel__control carousel__control--backward" for="D"></label>
+                                          <label class="carousel__control carousel__control--forward" for="B"></label>
+                                        </div>
+                                        <div class="carousel__controls">
+                                          <label class="carousel__control carousel__control--backward" for="A"></label>
+                                          <label class="carousel__control carousel__control--forward" for="C"></label>
+                                        </div>
+                                        <div class="carousel__controls">
+                                          <label class="carousel__control carousel__control--backward" for="B"></label>
+                                          <label class="carousel__control carousel__control--forward" for="D"></label>
+                                        </div>
+                                        <div class="carousel__controls">
+                                          <label class="carousel__control carousel__control--backward" for="C"></label>
+                                          <label class="carousel__control carousel__control--forward" for="A"></label>
+                                        </div>
+                                        <li class="carousel__slide">
+                                            <h3>Monero Promo</h3>
+                                            <video controls poster="/img/monero-community.svg" onclick="this.paused ? this.play() : this.pause();" preload="none">
+                                                <source src="/media/Monero_Promo.m4v">
+                                            </video>
+                                        </li>
+                                        <li class="carousel__slide">
+                                          <h3>Monero: The Essentials</h3>
+                                            <video controls poster="/img/monero-cash.svg" onclick="this.paused ? this.play() : this.pause();" preload="none">
+                                                <source src="/media/Monero%20-%20The%20Essentials.m4v">
+                                            </video>
+                                        </li>
+                                        <li class="carousel__slide">
+                                          <h3>Stealth Addresses</h3>
+                                            <video controls poster="/img/stealth-address.png" onclick="this.paused ? this.play() : this.pause();" preload="none">
+                                                <source src="/media/Monero%20-%20Stealth%20Addresses.m4v">
+                                            </video>
+                                        </li>
+                                        <li class="carousel__slide">
+                                          <h3>Ring Signatures</h3>
+                                            <video controls poster="/img/ring-signatures.png" onclick="this.paused ? this.play() : this.pause();" preload="none">
+                                                <source src="/media/Monero%20-%20Ring%20Signatures.m4v">
+                                            </video>
+                                        </li>
+                                      </ul>
+                                </div>
                             </div>
                         </div>
-<div markdown="1">
-                           
-### Privacy
-
-Monero seeks to provide users with the ability to conduct private and untraceable transactions in an effort to create true electronic cash. Transactions are private by default at the protocol level. However, users are able to selectively disclose information or even provide audit access (view only) to their full Monero account.
-
-
-### Decentralization
-
-Monero is based on an egalitarian proof of work model, which employs an algorithm that allows ordinary users to mine for new Monero with any modern CPU or GPU. As a result, the network hash power is more widely distributed and not centralized in large mining operations. Furthermore, Monero is not a company with a hierarchical structure beholden to shareholder interest. It is a Free and Open-Source Software (FOSS) project with mostly unpaid privacy-conscious volunteers with a passion for secure, high quality, publicly available code. Monero’s core branch has had over 9,600 commits made by 200+ contributors, representing more than 440,600 lines of code.
-
-
-### Scaleability
-
-Monero has a dynamic block size limit that is automatically recalculated regularly. A penalty system prevents out of control growth. Monero also implements a "permanent block reward." The block reward will never drop below 0.3 XMR, making Monero a disinflationary currency. The inflation will be roughly 1% in 2022 and go down gradually, but the nominal inflation will stay at 0.3 XMR per minute. This means that there will always be an incentive for miners to mine Monero.
-
-
-### Fungibility
-
-Using non-fungible tokens (coins that cannot be substituted in place of another) could eventually lead to blacklisting/whitelisting by governments or self-censorship. With Monero, this problem is avoided by having an opaque (non-transparent) blockchain where all tokens are equal. Unprivileged observers are incapable of ascertaining whether a certain token is spent or unspent in a transaction nor determine the origin, destination, or amount of transactions. Monero helps users keep their transaction information private from prying eyes.
-                           
-</div>
-                    </div>
                 </div>
+                </section>
 
             </div>
         </section>
